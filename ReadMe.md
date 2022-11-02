@@ -1,4 +1,6 @@
-#This is zomato landing page clone which is going to created in upcoming days
-New message had to added by Collaborator B
+#This is a zomato langing page clone which we will be creating in upcoming days
 
-This is a new installation Setup branch
+New Msg has to be added from Colaborartor B
+
+
+This is a new installation Setup Branch.
